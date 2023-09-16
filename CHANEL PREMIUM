@@ -7,3 +7,9 @@ http://161.230.155.157:8000/play/a02u
 
 #EXTINF:-1,ELEVEN SPORTS 1 🇵🇹
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports1.png" group-title="Sports", (ONLINE) LIVE 1
+https://ecloud.welive.sbs:8089/hls/k5jmFDDQOOBF/index.m3u8?st=K6Vikst9gryFdO9G81MehQ&e=1694889026
+
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/beinsports2.png" group-title="Sports", (ONLINE) LIVE 2
+https://a46.azplay.me/hls/streama213190/index.m3u8?cst=995d9e111bf1bae26b6d60efb324a241
